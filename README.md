@@ -1,6 +1,6 @@
 ### Assembly Programs
 
-These are various basic program that I built using **8086 assembler**.
+These are various basic program that I built using **8086 emulator**.
 
 To be frank I don't actually remember which program does what, as you know how difficult is *assembly language* when it comes to understanding what is going on in the code.
 
