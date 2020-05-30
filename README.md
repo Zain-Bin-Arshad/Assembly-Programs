@@ -15,3 +15,6 @@ Given program does following things:
 - Case converter
 - Palindrome
 - String operations 
+- Draw line on screen
+- Change cursor color
+etc...
